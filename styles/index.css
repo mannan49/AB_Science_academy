@@ -5,7 +5,7 @@ body{
     align-items: center;
     background-image: url(../assests/academy.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat ;
     background-position: center;
 
 }
